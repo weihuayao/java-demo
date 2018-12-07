@@ -22,8 +22,6 @@ public class BubbleSort {
         for (int arr1 : ary) {
             System.out.println(arr1);
         }
-        System.out.println("hello world");
-        System.out.println("这里是主分支");
 
     }
 }
